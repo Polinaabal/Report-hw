@@ -1,1 +1,2 @@
 Begining of the second file
+Adding the second line in the file
